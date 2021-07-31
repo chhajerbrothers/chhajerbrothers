@@ -9,7 +9,7 @@ title: Chhajer Brothers
 	<script src="js/modernizr.custom.js"></script>
 </head>
 <div class="view">
-	<div class="my__suggestion"><center><h1><br>Books I Would Recommend</h1></center><div>
+	<div class="my__suggestion"><center><h1><br>Showcase</h1></center><div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
