@@ -12,11 +12,11 @@ subtitle: Just a phone call, email or friend request away!
   <br>
   <p>Locate Us at the below address</p>
   <br>
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.8924169029156!2d78.49019611425561!3d17.46486258803222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9a65df6fd3b5%3A0x3d69e2667be8c112!2sDiamond%20Point%20Rd%2C%20Kiran%20Enclave%2C%20Bowenpally%2C%20Secunderabad%2C%20Telangana%20500009!5e0!3m2!1sen!2sin!4v1609401675890!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.4293715096533!2d79.11723351410197!3d21.135304289510316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd4c7366fdba58f%3A0xbda337a749a36d82!2sChhajer%20Brothers!5e0!3m2!1sen!2sin!4v1627729476500!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
 
-For any requests/inquiries, please email [akshayjain2004@gmail.com](mailto:akshayjain2004@gmail.com?subject=Inquiry)
-Or Contact On: 7022207522
+For any requests/inquiries, please email [pkruchi360@gmail.com](mailto:pkruchi360@gmail.com?subject=Inquiry)
+Or Contact On: 9595760700
 You can also send a message using the form below:
 
 <form action="https://formspree.io/dean@attalitech.com" method="POST" class="form" id="contact-form">
