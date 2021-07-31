@@ -774,7 +774,7 @@ footer .footer-custom-content {
 }
 .pagination .page-item .page-link:hover,
 .pagination .page-item .page-link:focus {
-  color: #FFF;
+  color: #890000;
   background: #890000;
   border: 1px solid #890000;
 }
