@@ -57,13 +57,13 @@ round-avatar: true
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-navbar-col: "#75a3a3"
+navbar-col: "#4287ff"
 navbar-text-col: "#ffffff"
 navbar-children-col: "#ffff66"
 page-col: "#ffffff"
 link-col: "#008AFF"
 hover-col: "#990000"
-footer-col: "#75a3a3"
+footer-col: "#4287ff"
 footer-text-col: "#ffffff"
 footer-link-col: "#ffffff"
 # --- Footer options --- #
