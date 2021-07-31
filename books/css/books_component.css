@@ -48,7 +48,7 @@
      min-width: 16em;
      margin: 0 1em 2.5em;
      padding: 1.5em 1.5em 2em;
-     background: #75a3a3;
+     background: #ffffff;
      border-radius: 5px;
 }
  .product--selected {
@@ -143,7 +143,7 @@
      outline: none;
 }
  .action--button {
-     background: #75a3a3;
+     background: #ffffff;
      color: #fff;
      border-radius: 2px;
      -webkit-transition: background 0.2s;
