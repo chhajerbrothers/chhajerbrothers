@@ -88,12 +88,12 @@ hr.small {
 }
 
 ::-moz-selection {
-  color: #fff;
+  color: #050505;
   text-shadow: none;
   background: #890000;
 }
 ::selection {
-  color: #fff;
+  color: #050505;
   text-shadow: none;
   background: #890000;
 }
